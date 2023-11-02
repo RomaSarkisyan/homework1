@@ -1,21 +1,12 @@
-var tiv = prompt("miat aranc amboxj tiv gri axper:");
+var q = prompt("tiv")//60
 
-if ( tiv%2==0){
-  tiv = promt 
+var w = prompt("miatel tiv")//-2
 
-console.log(tiv);
-}
-const tiv2 = prompt("miatel ankap tiv gri axper:"); 
+var a = q / w//-30
 
-console.log(tiv2);
+var b = 1
 
-
-if (tiv % tiv2 == 0) {
-  console.log("lava");
-} else {
-  console.log("lav chi");
-}
-
-while(true){
-  
+while ( b<=a ) { 
+  console.log( b )
+  b = b + 1 
 }
