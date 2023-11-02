@@ -15,3 +15,7 @@ if (tiv % tiv2 == 0) {
 } else {
   console.log("lav chi");
 }
+
+while(true){
+  
+}
